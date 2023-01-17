@@ -463,7 +463,7 @@ input[type="password"], textarea {
         width: 75%;
     }
     .tab-full {
-        width: 10%;
+        width: 100%;
         
     }
 }
@@ -612,7 +612,7 @@ input[type="password"], textarea {
         width: 33.33333%;
     }
     .block-tab-1-2 .col-block {
-        width: 50%;
+        width: 100%;
     }
     .block-tab-full .col-block {
         width: 100%;
